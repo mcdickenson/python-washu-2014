@@ -1,5 +1,5 @@
 import unittest
-import clock
+from clock import Clock
 
 class ClockTest(unittest.TestCase):
 
